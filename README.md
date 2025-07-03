@@ -1,10 +1,10 @@
 # ZonoSign Backend
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.0-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.14-009688.svg?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![uv](https://img.shields.io/badge/uv-Package%20Manager-FFD43B.svg?logo=python&logoColor=blue)](https://github.com/astral-sh/uv)
 
-Backend service for ZonoSign, a 3D sign language learning platform that helps users learn and practice sign language through interactive lessons and real-time feedback.
+Backend service for ZonoSign, a sign language learning platform that helps users learn and practice sign language through interactive lessons and real-time feedback.
 
 ## 🚀 Features
 
